@@ -1,7 +1,7 @@
 # reactcrud
 My first reactjs app/practice.
 
-Please add node nmdules folder. 
+Please add a node modules folder. 
 To install, type in terminal.
 
 npm install package-name
